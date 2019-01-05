@@ -7,5 +7,7 @@ namespace TestApp
     class First
     {
         public string Name { get; set; }
+        public int Age { get; set; }
+
     }
 }
